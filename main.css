@@ -10,13 +10,10 @@ nav {
     height: 60px;
     background-color: #4A95FF;
     font-size: 15px;
-<<<<<<< HEAD
 }
 
 .hamburger {
     display: none;
-=======
->>>>>>> 5a2752a96bad64393b4fb1b15433d39108aedf52
 }
 
 nav ul {
@@ -54,11 +51,7 @@ section {
 
 #projects {
     padding: 5%;
-<<<<<<< HEAD
     text-align: center;
-=======
-
->>>>>>> 5a2752a96bad64393b4fb1b15433d39108aedf52
 }
 
 footer {
