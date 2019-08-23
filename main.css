@@ -24,7 +24,7 @@
 
 .menu a {
     text-decoration: none;
-    color: white;
+    color: #000036;
     margin: 0 10px;
     line-height: 70px;
     display: inline-block;
@@ -67,8 +67,13 @@ section {
     font-size: 18px;
 }
 
+.image {
+    width: 200px;
+    height: 200px;
+}
+
 #bio {
-    padding: 5%;  
+    padding: 10%;  
 }
 
 #projects {
@@ -76,9 +81,24 @@ section {
     text-align: center;
 }
 
+.link:hover {
+    color: #00552a;
+}
+
+.links {
+    margin: 0 30px 0 0;
+    color: #00ffff;
+    text-decoration: none;
+}
+
+.links:hover {
+    color: #b381b3;
+}
+
 @media only screen and (min-width: 600px) {
     body {
-
+        width: 50%;
+        margin: auto;
     }
 
     label {
