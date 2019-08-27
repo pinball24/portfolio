@@ -10,7 +10,7 @@
     width: 100%;
     height: 70px;
     background-color: #4A95FF;
-    font-size: 15px;
+    font-size: 14px;
     border-bottom: 1px solid #800080;
 }
 
@@ -57,7 +57,7 @@ main > h1 {
 }
 
 header {
-    margin-top: 25%;
+    margin-top: 30%;
     text-align: center;
 }
 
