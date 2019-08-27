@@ -96,6 +96,10 @@ section {
 }
 
 @media only screen and (min-width: 360px) {
+    .navbar {
+        font-size: 16px;
+    }
+
     body {
         width: 60%;
         margin: auto;
@@ -107,5 +111,9 @@ section {
 
     .menu {
         display: inline-block;
+    }
+
+    .menu a {
+        margin: 0 10px;
     }
 }
