@@ -25,7 +25,7 @@
 .menu a {
     text-decoration: none;
     color: #000036;
-    margin: 0 10px;
+    margin: 0 5px;
     line-height: 70px;
     display: inline-block;
 }
@@ -97,7 +97,7 @@ section {
 
 @media only screen and (min-width: 360px) {
     body {
-        width: 50%;
+        width: 60%;
         margin: auto;
     }
 
@@ -107,9 +107,5 @@ section {
 
     .menu {
         display: inline-block;
-    }
-
-    header {
-        margin: 10%;
     }
 }
